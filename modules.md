@@ -1,10 +1,12 @@
  ### Possible Tracks
+ 
  - Structured Thinking 
  - Programming Fundamentals
  - Frontend Coding
  - Backend Coding 
  - Low Code/No Code Tools Like Joomla/Wordpress
  - Communication & Documentation
+ 
  ### Coding Tracks
  - Markdown
  - Mermaid JS to create flow charts
@@ -26,5 +28,3 @@
 - Content Management Systems
 	- Joomla
 	- Wordpress 
-
-
