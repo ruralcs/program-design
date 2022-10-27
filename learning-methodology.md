@@ -1,6 +1,6 @@
 # Learning Methodology
 
-The learning methodology followed for Rural CS is a simplified version of the [DoNew continuum of learning-skilling-earning-centre-startup]([url](https://github.com/donew-innovations/moonshot-ideas/issues/12)). 
+The learning methodology followed for Rural CS is a simplified version of the [DoNew continuum of learning-skilling-earning-centre-startup](https://github.com/donew-innovations/moonshot-ideas/issues/12). 
 
 The Rural CS learning methodology is as follows - 
 - The entire maze of CS is broken down into micro learning modules, interconnected in a dependency graph that enables infinite learning pathways. 
