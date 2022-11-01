@@ -8,23 +8,32 @@
  - Communication & Documentation
  
  ### Coding Tracks
+ - Git Basics
+ - Git Advanced
  - Markdown
  - Mermaid JS to create flow charts
  - HTML Basics
- - Advanced HTML
+ - HTML Advanced
  - CSS Basics
  - CSS Advanced
  - CSS Super Advanced
  - JS Basics
  - JS Advanced
- - JS Frameworks 
-	 - React JS
-	 - Angular
-- Node JS Basics
-- Node JS Advanced
-- Node JS Frameworks
-	- Express
-- Java 
-- Content Management Systems
+ - JS Frameworks 1 (jquery, mithril, lodash)
+ - JS Frameworks 2 (ReactJS, Angular, Vue)
+ - Node JS Basics
+ - Node JS Advanced
+ - Node JS Frameworks (Express, Micro, Koa)
+ - Java 
+ - Java for Android
+ - Kotlin for Android
+ - Content Management Systems
 	- Joomla
 	- Wordpress 
+ - Data Science Basics (statistics, regression)
+ - Data Science Advanced (ML)
+ - Data Science Advanced (AI)
+ - Data Engineering Basics (ETLs, OLTP, OLAP basics with Driud, Airflow, Posthog)
+ - Data Engineering Advanced (Hadoop, HBase, Hive, Spark, Presto, Pentaho, Kafka)
+ - 
+
